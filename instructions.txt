@@ -1,0 +1,3 @@
+Instructions for deploying this site to the server
+I love coding
+code eat sleep
